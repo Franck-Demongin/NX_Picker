@@ -1,3 +1,5 @@
+![hero](https://user-images.githubusercontent.com/54265936/194942683-c95ee842-d7a1-4aa1-ab2f-60c682499042.png)
+
 # NX_Picker
 Pick color and create palette in Image Editor and Compositor.
 Palette could be saved and/or exported in several formats (Gimp and Photoshop are supported)
